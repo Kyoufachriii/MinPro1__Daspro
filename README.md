@@ -10,3 +10,6 @@
 3. program akan lanjut ke decision "jam kerja diatas > 160 menit?, jika waktu kerja < 160 menit, maka tidak mendapatkan bonus, dan jika waktu kerja > 160 menit, maka akan mendapatkan bonus
 
 4. program akan dilanjutkan ke decision "ingin menghitung ulang gaji?" jika iya maka program akan diulang dengan menginput nama dan id , dan jika tidak program akan selesai
+
+#  output
+# Penjelasan alur output
