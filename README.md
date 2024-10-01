@@ -14,22 +14,30 @@
 #  output
 # Penjelasan alur output
 
-![WhatsApp Image 2024-10-01 at 09 03 39_0ab83ff1](https://github.com/user-attachments/assets/63187739-ca01-4c83-bedf-0fa679d2de10)
 # input nama dan nim
+![WhatsApp Image 2024-10-01 at 10 59 07_6ff543c9](https://github.com/user-attachments/assets/b05df9c3-4f94-4f09-900a-f97820df087f)
+
  1. program dimulai dengan menginputkan nama dan id, input nama dan id dengan benar agar dapat melanjutkan program
  2. jika input an nama dan id benar maka program akan dilanjutkan, jika salah maka program akan diulang ke bagian penginputan nama dan id.
 
-![WhatsApp Image 2024-10-01 at 09 03 39_0ab83ff1](https://github.com/user-attachments/assets/52dfc4b0-3626-4d0c-9023-ca87d7425236)
 # pengecekan upah
+![WhatsApp Image 2024-10-01 at 11 01 24_a97a88b2](https://github.com/user-attachments/assets/de93dac4-874a-4fe2-8ef9-d02403426475)
+
  3. pada opsi "apakah anda akan melakukan pengecekan upah" jika memilih opsi ya maka program akan dilanjutkan, dan jika tidak program akan selesai.
  4. pada bagian pengisian data pengguna harus menginputkan jam kerja dan pendapatan perjam, jika waktu kerja kurang dari 160 mnt, maka tidak mendapat bonus.
  
-![WhatsApp Image 2024-10-01 at 09 03 39_0ab83ff1](https://github.com/user-attachments/assets/9051b27a-359a-43aa-83d0-50e2c89315a0)
+
 # pengulangan
+![WhatsApp Image 2024-10-01 at 11 14 35_00ee3bab](https://github.com/user-attachments/assets/1b617611-777f-4bf3-a2ac-7ed09b0765b0)
+
+![WhatsApp Image 2024-10-01 at 11 02 46_5d189151](https://github.com/user-attachments/assets/e0b4d182-a5ab-4253-8077-1afce6a72175)
+
  5. jika ingin melakukan pengecekan/ penghitungan ulang, pengguna dapat mengisi opsi "ya" pada kolom inputan"apakah anda ingin melakukan pengecekan upah"
  6. pengguna menginput kan kembali jam kerja dan pendapatan, jika waktu kerja >160 mnt, maka akan mendapatkan bonus, program akan menampilkan pendapatan+bonus
 
- ![WhatsApp Image 2024-10-01 at 09 03 39_0ab83ff1](https://github.com/user-attachments/assets/0deca9ed-d8c0-499e-8e21-251f045272bb)
+
  # akhir program
+ ![WhatsApp Image 2024-10-01 at 11 13 41_4f157f36](https://github.com/user-attachments/assets/9d99d5c0-d9c9-46de-9fd2-44b4565e570b)
+
  7. jika pengguna telah selesai melakukan pengecekan dapat mengisi "tidak" pada opsi "apakah anda ingin melakukan pengecekan upah" dan program akan selesai
 
