@@ -11,7 +11,9 @@
 
 4. program akan dilanjutkan ke decision "ingin menghitung ulang gaji?" jika iya maka program akan diulang dengan menginput nama dan id , dan jika tidak program akan selesai
 
-#  output
+#  output 
+![WhatsApp Image 2024-10-01 at 09 03 39_8f0a6d3f](https://github.com/user-attachments/assets/2c86f5ad-92b0-4f92-a5e5-046f2806b244)
+
 # Penjelasan alur output
 
 # input nama dan nim
